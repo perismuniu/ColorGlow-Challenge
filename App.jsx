@@ -11,6 +11,7 @@ export default function App(props) {
             <Pad 
                 key={pad.id}
                 color={pad.color}
+                on={pad.on}
             />
         )
     })
