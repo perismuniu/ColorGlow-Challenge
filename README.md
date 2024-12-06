@@ -13,6 +13,10 @@ A React-based interactive project where you can toggle glowing color pads. Each 
 
 ---
 
+# Deployment Link
+
+https://color-glow-challenge.netlify.app/
+
 ## Features
 
 - **Dynamic Toggling**: Each pad changes between "on" and "off" states when clicked.
